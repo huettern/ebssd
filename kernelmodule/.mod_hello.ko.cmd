@@ -1,0 +1,1 @@
+cmd_/home/noah/ebssd/workspace/kernelmodule/mod_hello.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/noah/ebssd/workspace/kernelmodule/mod_hello.ko /home/noah/ebssd/workspace/kernelmodule/mod_hello.o /home/noah/ebssd/workspace/kernelmodule/mod_hello.mod.o ;  true
